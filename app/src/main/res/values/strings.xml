@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Détection_moustique</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoibHV6aWxhYiIsImEiOiJjbG44cmFhbzQwMGk1MmpwNWR3cW5pOGYwIn0.HzmROpxcBcdNwGGqXhFWyA</string>
 </resources>
