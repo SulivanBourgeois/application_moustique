@@ -1,5 +1,6 @@
 *.iml
 .gradle
+/app/src/main/res/values/developer-config.xml
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -13,4 +14,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-app/src/main/res/values/developer-config.xml
